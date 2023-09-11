@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Axel Ingadi!  
   
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
 <a href="https://twitter.com/ingadi_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -39,6 +38,8 @@
 </td></tr></table>  
 
 <br/>  
+
+[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
 
 
 ## Languages and Tools  
