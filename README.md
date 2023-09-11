@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Axel Ingadi!  [![Profile badge](https://www.codewars.com/users/ingadi/badges/large)](https://www.codewars.com/users/ingadi)
+## Hey 👋, I'm Axel Ingadi!  [![Profile badge](https://www.codewars.com/users/ingadi/badges/small)](https://www.codewars.com/users/ingadi)
 
   
 <a href="https://twitter.com/ingadi_" target="_blank">
