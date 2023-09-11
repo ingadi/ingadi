@@ -21,19 +21,12 @@
 
 ### Welcome to my GitHub!  
  I'm a software engineer passionate about web development and open-source collaboration. Here, you'll find a collection of my projects, from web applications to code libraries. I believe in the power of technology to make the world a better place, and I'm always eager to learn and contribute. Feel free to explore my repositories, and if you have any questions or ideas for collaboration, don't hesitate to reach out.  
-  
-
 <br/>  
-
 
 ## Rapidfire  
 - 🌱 I’m currently learning TypeScript, Go and TensorFlow  
 - 💬 Ask me about anything related to Web Development
 - ⚡ Fun fact: Before the computer mouse was known as a mouse, it was known as the turtle.  
-
-
-
-<br/>  
 
 
 ## Languages and Tools  
