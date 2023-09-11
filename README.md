@@ -25,7 +25,7 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen" />
 </a>
 <a href="https://stackoverflow.com/users/4187384/ingadi" target="_blank">
-<img style="margin-bottom: 10px" src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow" />
+<img style="margin: 10px" src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow" />
 </a>
 </div>
 
