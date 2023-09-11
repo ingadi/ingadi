@@ -12,6 +12,9 @@
 </a>
 <a href="https://codepen.com/axelingadi" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/4187384/ingadi" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -25,20 +28,16 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 I’m currently learning TypeScript, Go and TensorFlow  
   
 
-- 💬 Ask me about anything related to Web Development  
+- 💬 Ask me about anything related to Web Development
+
   
 
 - ⚡ Fun fact: Before the computer mouse was known as a mouse, it was known as the turtle.  
-
-
-</td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
@@ -88,32 +87,7 @@
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingadi&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **ingadi/ingadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
