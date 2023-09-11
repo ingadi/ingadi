@@ -25,7 +25,7 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen" />
 </a>
 <a href="https://stackoverflow.com/users/4187384/ingadi" target="_blank">
-<img style="margin: 10px" src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow" />
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow" />
 </a>
 </div>
 
@@ -67,11 +67,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-
 
 <!--
 **ingadi/ingadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
