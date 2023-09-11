@@ -1,7 +1,10 @@
 
 ## Hey 👋, I'm Axel Ingadi!
 
-  
+
+### Welcome to my GitHub!  
+ I'm a software engineer passionate about web development and open-source collaboration. Here, you'll find a collection of my projects, from web applications to code libraries. I believe in the power of technology to make the world a better place, and I'm always eager to learn and contribute. Feel free to explore my repositories, and if you have any questions or ideas for collaboration, don't hesitate to reach out.  
+
 <a href="https://twitter.com/ingadi_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -14,13 +17,6 @@
 <a href="https://stackoverflow.com/users/4187384/ingadi" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-### Welcome to my GitHub!  
- I'm a software engineer passionate about web development and open-source collaboration. Here, you'll find a collection of my projects, from web applications to code libraries. I believe in the power of technology to make the world a better place, and I'm always eager to learn and contribute. Feel free to explore my repositories, and if you have any questions or ideas for collaboration, don't hesitate to reach out.  
-<br/>  
 
 ## Rapidfire  
 - 🌱 I’m currently learning TypeScript, Go and TensorFlow  
