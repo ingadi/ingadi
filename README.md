@@ -39,7 +39,7 @@
 
 <br/>  
 
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
+[![Profile badge](https://www.codewars.com/users/ingadi/badges/large)](https://www.codewars.com/users/ingadi)
 
 
 ## Languages and Tools  
