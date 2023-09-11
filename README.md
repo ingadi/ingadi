@@ -1,4 +1,12 @@
-## Hey 👋, I'm Axel Ingadi!  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      ## Hey 👋, I'm Axel Ingadi!  
+    </td>
+    <td valign="top" width="50%">
+      [![Profile badge](https://www.codewars.com/users/ingadi/badges/large)](https://www.codewars.com/users/ingadi)
+    </td>
+  </tr></table> 
   
 <a href="https://twitter.com/ingadi_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -38,8 +46,6 @@
 </td></tr></table>  
 
 <br/>  
-
-[![Profile badge](https://www.codewars.com/users/ingadi/badges/large)](https://www.codewars.com/users/ingadi)
 
 
 ## Languages and Tools  
