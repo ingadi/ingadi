@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td>
       ## Hey 👋, I'm Axel Ingadi!  
     </td>
-    <td valign="top" width="50%">
+    <td>
       [![Profile badge](https://www.codewars.com/users/ingadi/badges/large)](https://www.codewars.com/users/ingadi)
     </td>
   </tr></table> 
