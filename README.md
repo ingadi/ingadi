@@ -13,7 +13,7 @@
 </a>
 
 ## Rapidfire  
-- 🌱 I’m currently learning TypeScript, Go and TensorFlow  
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything related to Web Development
 - ⚡ Fun fact: Before the computer mouse was known as a mouse, it was known as the turtle.  
 
