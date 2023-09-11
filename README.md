@@ -27,18 +27,11 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
 - 🌱 I’m currently learning TypeScript, Go and TensorFlow  
-  
-
 - 💬 Ask me about anything related to Web Development
-
-  
-
 - ⚡ Fun fact: Before the computer mouse was known as a mouse, it was known as the turtle.  
 
-</td></tr></table>  
+
 
 <br/>  
 
