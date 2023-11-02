@@ -23,10 +23,10 @@
 <div>  
 <a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="80" /></a>  
 <a title="Linux (I use Arch btw)" href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" /></a>  
-<a title="NextJS" href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="60" /></a>  
-<a title="React" href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>  
-<a title="Tailwind CSS" href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" /></a>  
-<a title="TensorFlow" href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="60" /></a>  
+<a title="NextJS" href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="55" /></a>  
+<a title="React" href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="55" /></a>  
+<a title="Tailwind CSS" href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="55" /></a>  
+<a title="TensorFlow" href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="55" /></a>  
 <a title="Drizzle ORM" href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="Drizzle ORM" height="55" /></a>
 <a title="TRPC" href="https://trpc.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" alt="TRPC" height="55" /></a>
 <a title="Zod" href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://zod.dev/logo.svg" alt="ZOD" height="65" /></a>
