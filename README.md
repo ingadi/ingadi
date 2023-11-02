@@ -15,10 +15,10 @@
 ## Rapidfire  
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything related to Web Development
-- ⚡ Fun fact: Before the computer mouse was known as a mouse, it was known as the turtle.  
+- ⚡ Fun fact: Before the computer mouse was known as a mouse, it was known as the turtle (we got really lucky there didn't we).  
 
 
-## Languages and Tools  
+## Technologies I adore
 [![Profile badge](https://www.codewars.com/users/ingadi/badges/small)](https://www.codewars.com/users/ingadi)
 <div>
 <a href="https://codepen.com/axelingadi" target="_blank">
