@@ -33,6 +33,7 @@
 <a title="Zod" href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://zod.dev/logo.svg" alt="ZOD" height="65" /></a>
 <a title="NodeJS" href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="NodeJS" height="55" /></a>
 <a title="Vercel" href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" alt="Vercel" height="55" /></a>
+ <a title="Pocketbase" href="https://pocketbase.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/101000011?s=200&v=4" alt="Pocketbase" height="55" /></a>
 <a title="Supabase" href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" height="55" /></a>
 <a title="PlanetScale" href="https://planetscale.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" alt="PlanetScale" height="55" /></a>
 <a title="Turborepo" href="https://turbo.build/repo" target="_blank"><img style="margin: 10px" src="https://turbo.build/images/docs/repo/repo-hero-logo-light.svg" alt="Turborepo" height="55" /></a>
