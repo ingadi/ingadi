@@ -30,7 +30,10 @@
 <a title="Drizzle ORM" href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="Drizzle ORM" height="65" /></a>
 <a title="TRPC" href="https://trpc.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" alt="TRPC" height="65" /></a>
 <a title="Zod" href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://zod.dev/logo.svg" alt="ZOD" height="65" /></a>
- <a title="NodeJS" href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="NodeJS" height="65" /></a>
+<a title="NodeJS" href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="NodeJS" height="65" /></a>
+<a title="Vercel" href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" alt="Vercel" height="65" /></a>
+<a title="Supabase" href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" height="65" /></a>
+
 </div>  
 
 <!--
