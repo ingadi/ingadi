@@ -1,5 +1,5 @@
 
-## Howdy 👋, I'm Axel Ingadi
+## Howdy 👋, I'm Axel Ingadi.
 
 
 ### Welcome to my GitHub!  
