@@ -29,6 +29,7 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="60" /></a>  
 <a href="https://orm.drizzle.team/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="Drizzle ORM" height="65" /></a>
 <a href="https://trpc.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" alt="TRPC" height="65" /></a>
+<a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="ZOD" height="65" /></a>
 </div>  
 
 <!--
